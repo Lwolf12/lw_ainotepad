@@ -1,0 +1,2 @@
+Create a notepad clone in the style of Windows 7/xp notepad. The menu verbs should all work, as should loading and saving and all of the other essential functionality of Notepad. The main window should have the same elements, the same menu, be similarly resizable, and operate in every way as the original does.
+ 
