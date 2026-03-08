@@ -1,1 +1,1 @@
-windows 7/xp notepad vibe coded -ddd eterddddddd
+windows 7/xp notepad vibe coded -ddd eterdddddddss
