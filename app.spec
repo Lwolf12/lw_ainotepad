@@ -2,7 +2,7 @@
 
 
 a = Analysis(
-    ['ainotepad.py'],
+    ['app.py'],
     pathex=[],
     binaries=[],
     datas=[],
